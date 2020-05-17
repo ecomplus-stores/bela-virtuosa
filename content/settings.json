@@ -1,12 +1,12 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "MyShop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "store_id": 1077,
+  "name": "Moda Evangélica - Bela Virtuosa",
+  "domain": "belavirtuosa.netlify.app",
+  "short_name": "bela-virtuosa",
+  "description": "Bela virtuosa é uma loja online exclusiva de moda Evangélica. Estamos em Goiânia ,um dos maiores polos de moda do Brasil e por isso temos novidades semanalmente, trazendo roupas compostas, elegantes e com preço justo para todas.",
+  "primary_color": "#333333",
+  "secondary_color": "#7a1213",
+  "bg_color": "#f1f1f1",
   "theme": {
     "bootswatch": "_"
   },
