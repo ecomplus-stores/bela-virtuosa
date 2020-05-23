@@ -1,22 +1,22 @@
 {
-  "store_id": 1077,
-  "name": "Moda Evangélica - Bela Virtuosa",
   "domain": "belavirtuosa.netlify.app",
-  "short_name": "bela-virtuosa",
-  "description": "Bela virtuosa é uma loja online exclusiva de moda Evangélica. Estamos em Goiânia ,um dos maiores polos de moda do Brasil e por isso temos novidades semanalmente, trazendo roupas compostas, elegantes e com preço justo para todas.",
+  "currency_symbol": "R$",
   "primary_color": "#333333",
-  "secondary_color": "#7a1213",
-  "bg_color": "#f1f1f1",
   "theme": {
     "bootswatch": "_"
   },
+  "bg_color": "#f1f1f1",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Bela Virtuosa Moda Evangélica",
+  "short_name": "bela-virtuosa-moda-evangelica",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#7a1213",
+  "icon": "/img/icon.png",
+  "store_id": 1077,
+  "description": "Bela Virtuosa é uma loja de MODA EVANGÉLICA que começou suas operações nas vendas online em 2017 a partir de um sonho da sua fundadora Glayce Kelly, que tinha dificuldades em encontrar roupas para mulheres cristãs com preços acessíveis e de alta qualidade. Através de contratos exclusivos, iniciou esse projeto abençoado por Deus, onde valorizamos a imagem da mulher virtuosa a partir das suas vestes.",
+  "large_icon": "/img/large-icon.png"
 }
