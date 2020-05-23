@@ -11,12 +11,12 @@
   "short_name": "bela-virtuosa-moda-evangelica",
   "lang": "pt_br",
   "currency": "BRL",
-  "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "mini_logo": "/img/uploads/nova-logo2020.jpg",
+  "favicon": "/img/uploads/icon2.png",
   "country_code": "BR",
   "secondary_color": "#7a1213",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/icon2.png",
   "store_id": 1077,
   "description": "Bela Virtuosa é uma loja de MODA EVANGÉLICA que começou suas operações nas vendas online em 2017 a partir de um sonho da sua fundadora Glayce Kelly, que tinha dificuldades em encontrar roupas para mulheres cristãs com preços acessíveis e de alta qualidade. Através de contratos exclusivos, iniciou esse projeto abençoado por Deus, onde valorizamos a imagem da mulher virtuosa a partir das suas vestes.",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/icon2.png"
 }
