@@ -1,5 +1,5 @@
 {
-  "css": ".product__payment>a{\n  display: none !important;\n}",
+  "css": ".product__payment>a{\n  display: none !important;\n}\n@media (max-width: 450px)\n.header__logo {\n    max-width: 202px;\n    max-height: 60px;\n}",
   "html_head": "",
   "html_body": ""
 }
