@@ -1,12 +1,12 @@
 {
   "marketing_stripe": {
-    "text": "APROVEITE O FRETE DE R$9,99 PARA TODO O BRASIL",
-    "link": "/promotion"
+    "text": "FRETE FIXO DE R$9,99 PARA TODO O BRASIL + 10x SEM JUROS",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [],
