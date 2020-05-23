@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".product__payment>a{\n  display: none !important;\n}",
   "html_head": "",
   "html_body": ""
 }
