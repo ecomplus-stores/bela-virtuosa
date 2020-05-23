@@ -1,5 +1,5 @@
 {
-  "css": ".product__payment>a{\n  display: none !important;\n}\n@media (max-width: 450px){\n.header__logo {\n    max-width: 202px;\n    max-height: 60px;\n  }}",
+  "css": ".product__payment>a{\n  display: none !important;\n}\n@media (max-width: 450px){\n.header__logo {\n    max-width: 202px;\n    max-height: 60px;\n  }}\n\n.header__search-btn:after {\n    font-size: 20px;\n    content: \"OK\";\n    font-weight: 500;\n    color: #454a47;\n    text-transform: lowercase;\n    text-decoration: underline;\n}",
   "html_head": "",
   "html_body": ""
 }
