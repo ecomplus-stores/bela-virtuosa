@@ -47,6 +47,12 @@
   .pswp__zoom-wrap {
     transform: translate3d(6%, 1%, 0) scale(1) !important;
   }
+    .product-card__pictures {
+    height: 350px
+  }
+  .product-card__pictures img {
+    max-height: 350px
+  }
 }
 // apenas mobile
 @media screen and (max-width: 480px) {
@@ -56,6 +62,12 @@
   }
   .pswp__zoom-wrap {
     transform: translate3d(18%, 20%, 0) scale(1) !important;
+  }
+   .product-card__pictures {
+    height: 280px
+  }
+  .product-card__pictures img {
+    max-height: 280px
   }
 }
 footer .header__logo {
