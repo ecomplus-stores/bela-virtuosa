@@ -1,0 +1,5 @@
+// [[redirects]]
+ from = "" // exemplo /grid/10007
+ to = "" // exemplo /conjunto
+ status = 301
+ force = true
