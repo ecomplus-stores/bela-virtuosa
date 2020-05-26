@@ -1,21 +1,6 @@
 // Add your custom CSS here.
 // desktop acima de 14 polegadas
 @media  screen and (min-width: 1368px) {
-  .picture.product-card__picture {
-    max-height: 400px;
-    width: auto !important;
-    height: 400px !important;
-  }
-  .product-card__pictures {
-    max-height: 400px;
-    width: auto !important;
-    height: 400px !important;
-  }
-  .picture.product-card__picture img {
-    max-height: 400px;
-    width: auto !important;
-    height: 400px !important;
-  }
   .product-card--small .product-card__picture img, .product-card--small .product-card__pictures {
     max-height: 300px !important;
     height: 300px !important;
@@ -32,21 +17,6 @@
   .banner-slider {
     max-width: 100%;
   }
-  .picture.product-card__picture {
-    max-height: 400px;
-    width: auto !important;
-    height: 400px !important;
-  }
-  .product-card__pictures {
-    max-height: 400px;
-    width: auto !important;
-    height: 400px !important;
-  }
-  .picture.product-card__picture img {
-    max-height: 400px;
-    width: auto !important;
-    height: 400px !important;
-  }
   .product-card--small .product-card__picture img, .product-card--small .product-card__pictures {
     max-height: 300px !important;
     height: 300px !important;
@@ -55,9 +25,6 @@
     height: 1000px !important;
     width: auto !important;
   }
-  .product-card__name {
-    padding: .5rem;
-}
 }
 // apenas tablet
 @media screen and (min-width: 481px) and (max-width: 997px) {
@@ -68,21 +35,6 @@
   .pswp__zoom-wrap {
     transform: translate3d(6%, 1%, 0) scale(1) !important;
   }
-  .picture.product-card__picture {
-    max-height: 350px;
-    width: auto !important;
-    height: 350px !important;
-  }
-  .product-card__pictures {
-    max-height: 350px;
-    width: auto !important;
-    height: 350px !important;
-  }
-  .picture.product-card__picture img {
-    max-height: 350px;
-    width: auto !important;
-    height: 350px !important;
-  }
 }
 // apenas mobile
 @media screen and (max-width: 480px) {
@@ -92,24 +44,6 @@
   }
   .pswp__zoom-wrap {
     transform: translate3d(18%, 20%, 0) scale(1) !important;
-  }
-  .picture.product-card__picture {
-    max-height: 250px;
-    width: auto !important;
-    height: 250px !important;
-  }
-  .product-card__pictures {
-    max-height: 250px;
-    width: auto !important;
-    height: 250px !important;
-  }
-  .picture.product-card__picture img {
-    max-height: 250px;
-    width: auto !important;
-    height: 250px !important;
-  }
-  .product-card {
-      padding: var(--spacer-1);
   }
 }
 footer .header__logo {
