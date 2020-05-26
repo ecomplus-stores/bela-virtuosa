@@ -55,6 +55,9 @@
     height: 1000px !important;
     width: auto !important;
   }
+  .product-card__name {
+    padding: .5rem;
+}
 }
 // apenas tablet
 @media screen and (min-width: 481px) and (max-width: 997px) {
