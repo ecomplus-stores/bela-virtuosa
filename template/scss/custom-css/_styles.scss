@@ -9,10 +9,14 @@
     height: 1000px !important;
     width: auto !important;
   }
+  .product-card__pictures, .product-card__picture img {
+    height: 400px;
+    max-height: 400px
+   }
 }
 
 //desktop normal size
-@media  screen and (min-width: 998px) and (max-width: 1367px) {
+@media  screen and (min-width: 992px) and (max-width: 1367px) {
   //slider full
   .banner-slider {
     max-width: 100%;
@@ -25,9 +29,13 @@
     height: 1000px !important;
     width: auto !important;
   }
+  .product-card__pictures, .product-card__picture img {
+    height: 400px;
+    max-height: 400px;
+   }
 }
 // apenas tablet
-@media screen and (min-width: 481px) and (max-width: 997px) {
+@media screen and (min-width: 481px) and (max-width: 991px) {
   .pswp__zoom-wrap img {
     height: 1000px !important;
     width: auto !important;
@@ -35,6 +43,10 @@
   .pswp__zoom-wrap {
     transform: translate3d(6%, 1%, 0) scale(1) !important;
   }
+  .product-card__pictures, .product-card__picture img {
+    height: 320px;
+    max-height: 320px
+   }
 }
 // apenas mobile
 @media screen and (max-width: 480px) {
@@ -45,6 +57,13 @@
   .pswp__zoom-wrap {
     transform: translate3d(18%, 20%, 0) scale(1) !important;
   }
+  .product-card__pictures, .product-card__picture img {
+    height: 247px;
+    max-height: 247px
+   }
+}
+.product-card__picture {
+  border-radius: 0px;
 }
 footer .header__logo {
   margin-bottom: .5rem;
@@ -132,6 +151,3 @@ footer .header__logo {
   color: #000 !important;
   font-size: var(--font-size) !important;
 }
-$product-card-picture-xs: 246px !default;
-$product-card-picture-sm: 350px !default;
-$product-card-picture-lg: 400px !default;
