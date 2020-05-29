@@ -10,8 +10,8 @@
     width: auto !important;
   }
   .product-card__pictures, .product-card__picture img {
-    height: 400px;
-    max-height: 400px
+    height: 380px;
+    max-height: 380px
    }
 }
 
@@ -30,8 +30,8 @@
     width: auto !important;
   }
   .product-card__pictures, .product-card__picture img {
-    height: 400px;
-    max-height: 400px;
+    height: 380px;
+    max-height: 380px;
    }
 }
 // apenas tablet
@@ -44,8 +44,8 @@
     transform: translate3d(6%, 1%, 0) scale(1) !important;
   }
   .product-card__pictures, .product-card__picture img {
-    height: 320px;
-    max-height: 320px
+    height: 300px;
+    max-height: 300px
    }
 }
 // apenas mobile
@@ -58,8 +58,8 @@
     transform: translate3d(18%, 20%, 0) scale(1) !important;
   }
   .product-card__pictures, .product-card__picture img {
-    height: 247px;
-    max-height: 247px
+    height: 227px;
+    max-height: 227px
    }
 }
 .product-card__picture {
