@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "page-title",
+      "title": "Moda Evangélica"
+    },
+    {
       "type": "search-engine",
       "enabled": true
     }
