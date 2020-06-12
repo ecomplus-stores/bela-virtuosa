@@ -48,19 +48,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-vestidos-tubinhos.jpg",
+          "img": "/img/uploads/banner-vestidos-tubinho.jpg",
           "alt": "",
-          "link": ""
+          "link": "http://www.belavirtuosa.com.br/vestidos-tubinho-moda-evangelica"
         },
         {
           "img": "/img/uploads/banner-vestidos-longos.jpg",
           "alt": "",
-          "link": ""
+          "link": "http://www.belavirtuosa.com.br/vestidos-longos-moda-evangelica"
         },
         {
           "img": "/img/uploads/banner-vestidos-rodados.jpg",
           "alt": "",
-          "link": ""
+          "link": "http://www.belavirtuosa.com.br/vestidos-rodados-moda-evangelica"
         }
       ]
     },
