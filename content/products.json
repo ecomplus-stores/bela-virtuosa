@@ -23,6 +23,10 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<!-- Trustvox -->\n<script type=\"text/javascript\" src=\"//colt.trustvox.com.br/colt.min.js\"></script> \n<script>\n  var _trustvox_colt = _trustvox_colt || [];\n  _trustvox_colt.push(['_storeId', '107766'], ['_limit', '7']);\n</script>\n<!-- /Trustvox -->"
     }
   ]
 }
