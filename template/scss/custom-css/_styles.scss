@@ -135,3 +135,7 @@ footer .header__logo {
   color: #000 !important;
   font-size: var(--font-size) !important;
 }
+// hide trustvox star
+.products-carousel .ts-shelf-container {
+  display: none !important;
+}
