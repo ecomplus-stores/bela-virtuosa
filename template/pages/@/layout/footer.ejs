@@ -7,7 +7,7 @@ const contacts = _.cms('contacts') || {}
 const networksWithColors = [
   ['facebook', '#3b5998'],
   ['youtube', '#ff0000'],
-  ['instagram', '#e1306c'],
+  ['instagram', '#e1306c']
   ['twitter', '#1da1f2'],
   ['pinterest', '#bd081c'],
   ['linkedin', '#0073b1']
@@ -26,6 +26,11 @@ const networksWithColors = [
           <% } %>
 
           <ul class="list-unstyled">
+          <li>
+            <h2 class="footer__title footer__store">
+            <%= footer.description.title || _.settings.name %>
+            </h2>
+            </li>
             <% if (footer.contacts.phone_wpp) { %>
               <% if (contacts.whatsapp) { %>
                 <li>
