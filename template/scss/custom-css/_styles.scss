@@ -45,6 +45,9 @@
   .pswp__zoom-wrap {
     transform: translate3d(18%, 20%, 0) scale(1) !important;
   }
+  .products-carousel .glide__arrows i {
+    font-size: 1rem !important;
+  }
 }
 .product-card__picture {
   border-radius: 0px;
@@ -138,4 +141,11 @@ footer .header__logo {
 // hide trustvox star
 .products-carousel .ts-shelf-container {
   display: none !important;
+}
+.product-card, .products-carousel__item {
+  padding: 0;
+}
+.search-engine__retail .row .col-6.col-md-4.col-lg-3, .search-engine__results .container {
+  padding-left: .2rem;
+  padding-right: .2rem;
 }
