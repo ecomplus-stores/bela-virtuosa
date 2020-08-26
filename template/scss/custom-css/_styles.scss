@@ -122,6 +122,10 @@ footer .header__logo {
 #header {
   border: none;
 }
+.prices__value, .cart__summary-row, .summary__amount__row:first-child {
+  display: none !important;
+}
+}
 .product__prices .prices__compare small {
   text-transform: none !important;
   padding-right: .2rem;
