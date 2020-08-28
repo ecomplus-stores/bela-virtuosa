@@ -17,14 +17,8 @@
               <div id="product-gallery">
                 <picture class="product__picture">
                   <source
-                    srcset="<%= _.ecomUtils.img(_.state).url %>"
-                    type="image/webp"
-                    media="(max-width: 399.98px)"
-                  >
-                  <source
                     srcset="<%= imgObj.url %>"
                     type="image/webp"
-                    media="(min-width: 400px)"
                   >
                   <img
                     src="<%= imgObj.url.replace(/\.webp$/, '') %>"
