@@ -1,14 +1,6 @@
 // Add your custom CSS here.
 // desktop acima de 14 polegadas
 @media  screen and (min-width: 1368px) {
-  .product-card--small .product-card__picture img, .product-card--small .product-card__pictures {
-    max-height: 300px;
-    height: 300px;
-  }
-  .pswp__zoom-wrap img {
-    height: 1000px !important;
-    width: auto !important;
-  }
 }
 
 //desktop normal size
@@ -21,30 +13,12 @@
     max-height: 300px;
     height: 300px;
   }
-  .pswp__zoom-wrap img {
-    height: 1000px !important;
-    width: auto !important;
-  }
 }
 // apenas tablet
 @media screen and (min-width: 481px) and (max-width: 991px) {
-  .pswp__zoom-wrap img {
-    height: 1000px !important;
-    width: auto !important;
-  }
-  .pswp__zoom-wrap {
-    transform: translate3d(6%, 1%, 0) scale(1) !important;
-  }
 }
 // apenas mobile
 @media screen and (max-width: 480px) {
-  .pswp__zoom-wrap img {
-    height: 400px !important;
-    width: auto !important;
-  }
-  .pswp__zoom-wrap {
-    transform: translate3d(18%, 20%, 0) scale(1) !important;
-  }
   .products-carousel .glide__arrows i {
     font-size: 1rem !important;
   }
