@@ -1,3 +1,6 @@
+[build]
+  command = "echo 'pre-rendered'"
+
 [[redirects]]
  from = "pagina/pagamento"
  to = "/pages/pagamentos"
