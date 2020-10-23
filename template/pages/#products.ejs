@@ -19,3 +19,21 @@ _.breadcrumbs.push({
 %>
 
 <%- await include('@/view') %>
+<a style="display: none" href="#product-actions" class="btn btn-lg btn-primary d-md-none" id="scrollToBuy">
+  <i class="fas fa-shopping-bag mr-1"></i>
+  <%= _.dictionary('buy') %>
+</a>
+<script type="text/javascript">
+  const bodyProduct = document.querySelectorAll('#page-products')
+  if(window.innerWidth < 767) {
+    window.addEventListener("scroll", function() {
+      if(this.pageYOffset > 1025 && bodyProduct.length) {
+        console.log('estou aqui')
+        document.getElementById('scrollToBuy').style.display = 'block'
+      } else {
+        document.getElementById('scrollToBuy').style.display = 'none'
+        console.log('estou aqui 1')
+      }
+    })
+  }
+</script>

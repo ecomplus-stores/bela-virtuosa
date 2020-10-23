@@ -3,6 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
+  "disablePages": true,
   "options": {
     "trustvoxStoreId": 107766
   },
