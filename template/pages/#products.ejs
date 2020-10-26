@@ -25,15 +25,17 @@ _.breadcrumbs.push({
 </a>
 <script type="text/javascript">
   const bodyProduct = document.querySelectorAll('#page-products')
+  const scrollToBuy = document.getElementById('scrollToBuy')
   if(window.innerWidth < 767) {
     window.addEventListener("scroll", function() {
       if(this.pageYOffset > 1025 && bodyProduct.length) {
-        console.log('estou aqui')
-        document.getElementById('scrollToBuy').style.display = 'block'
+        scrollToBuy.style.display = 'block'
       } else {
-        document.getElementById('scrollToBuy').style.display = 'none'
-        console.log('estou aqui 1')
+        scrollToBuy.style.display = 'none'
       }
     })
   }
+  scrollToBuy.addEventListener("click", function() {
+    document.querySelector('.product__buy button').click()
+  })
 </script>
