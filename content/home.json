@@ -34,6 +34,10 @@
       "title": "VITRINE ESPECIAL DO DIA"
     },
     {
+      "type": "custom-html",
+      "html": "<div id=\"_trustvox_colt\"></div>\n"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
