@@ -1,3 +1,15 @@
+[[redirects]]
+  from = "pagina/pagamento"
+  to = "/pages/pagamentos"
+  status = 301
+  force = true
+ 
+[[redirects]]
+  from = "/pagina/entrega"
+  to = "/pages/entrega"
+  status = 301
+  force = true
+
 [build]
   publish = "publish"
   functions = "functions-zip"
