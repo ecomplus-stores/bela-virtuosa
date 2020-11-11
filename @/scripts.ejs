@@ -30,7 +30,7 @@
       { 'v': 'Vue', 'src': 'https://unpkg.com/vue@2.6.11/dist/vue.runtime.min.js' }
     ];
     for (var i = 0; i < cdnFallbacks.length; i++) {
-      if (window[cdnFallbacks[i].v]) {
+      if (!window[cdnFallbacks[i].v]) {
         var $script = document.createElement('script');
         $script.src = cdnFallbacks[i].src;
         document.body.appendChild($script);
