@@ -7,3 +7,4 @@
 //    })
 //  }, 800)
 // })
+$ecomConfig.set('default_img_size', 'zoom')
