@@ -7,6 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2020-12-07T19:50:20.441Z",
+          "end": "",
+          "img": "/img/uploads/summer-desk-jpg.jpg",
+          "mobile_img": "/img/uploads/summer-mobi-jpg.jpg"
+        },
+        {
           "start": "2020-11-01T03:01:00.000Z",
           "end": "",
           "img": "/img/uploads/banner-grande-whastapp.jpg",
