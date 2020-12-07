@@ -41,19 +41,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-vestidos-tubinho.jpg",
+          "img": "/img/uploads/troca-gratis.jpg",
           "alt": "",
-          "link": "http://www.belavirtuosa.com.br/vestidos-tubinho-moda-evangelica"
+          "link": "https://www.belavirtuosa.com.br/pages/trocas"
         },
         {
-          "img": "/img/uploads/banner-vestidos-longos.jpg",
+          "img": "/img/uploads/whatspp.jpg",
           "alt": "",
-          "link": "http://www.belavirtuosa.com.br/vestidos-longos-moda-evangelica"
+          "link": "https://web.whatsapp.com/send?phone=%2B5562982281272"
         },
         {
-          "img": "/img/uploads/banner-vestidos-rodados.jpg",
+          "img": "/img/uploads/presente.jpg",
           "alt": "",
-          "link": "http://www.belavirtuosa.com.br/vestidos-rodados-moda-evangelica"
+          "link": ""
         }
       ]
     },
