@@ -7,17 +7,17 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2020-12-17T20:17:06.496Z",
+          "end": "",
+          "img": "/img/uploads/banner-frete-desconto.jpg",
+          "mobile_img": "/img/uploads/banner-frete-fixo.jpg"
+        },
+        {
           "start": "2020-11-01T03:01:00.000Z",
           "end": "",
           "img": "/img/uploads/banner-grande-whastapp.jpg",
           "mobile_img": "/img/uploads/banner-pequeno-whats.jpg",
           "link": "https://www.belavirtuosa.com.br/black-november"
-        },
-        {
-          "start": "2020-12-17T20:17:06.496Z",
-          "end": "",
-          "img": "/img/uploads/banner-frete-desconto.jpg",
-          "mobile_img": "/img/uploads/banner-frete-fixo.jpg"
         }
       ]
     },
