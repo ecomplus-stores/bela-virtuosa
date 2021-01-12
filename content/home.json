@@ -15,9 +15,11 @@
         },
         {
           "start": "2021-01-12T20:09:12.523Z",
-          "end": "2021-01-12T20:09:12.543Z",
+          "end": "",
           "img": "/img/uploads/1920x450px.jpg",
-          "mobile_img": "/img/uploads/800x940px.jpg"
+          "mobile_img": "/img/uploads/800x940px.jpg",
+          "link": "https://www.belavirtuosa.com.br/bazardeverao",
+          "alt": "Bazar de Verão Bela Virtuosa"
         }
       ]
     },
