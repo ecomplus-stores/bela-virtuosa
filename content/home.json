@@ -19,6 +19,12 @@
           "mobile_img": "/img/uploads/banner-pequeno-whats.webp",
           "link": "https://www.belavirtuosa.com.br/bazardeverao",
           "alt": "Bazar de Verão Bela Virtuosa"
+        },
+        {
+          "start": "2021-03-07T13:53:14.185Z",
+          "end": "",
+          "img": "https://trello-attachments.s3.amazonaws.com/5ff869e32903bf32bb1df742/6042877d52d4bd6c6a6f288f/c6dfc0885b80999bb1acd352a11b8a47/Banner%2C_Bela_Virtuosa_l_1920x600px.png",
+          "mobile_img": "https://trello-attachments.s3.amazonaws.com/6042877d52d4bd6c6a6f288f/800x940/e4b3d27f03d2ac45c99e8919b9845a37/Banner%2C_Bela_Virtuosa_l_800x940px.png"
         }
       ]
     },
