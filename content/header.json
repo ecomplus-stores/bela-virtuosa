@@ -9,7 +9,9 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/lancamentos?LANÇAMENTOS"
+    ],
     "random": 6,
     "full_width": true
   },
