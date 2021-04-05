@@ -15,12 +15,6 @@
     {
       "type": "product-specifications",
       "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "sort": "news",
-      "title": "ÚLTIMOS LANÇAMENTOS DA SEMANA"
     }
   ]
 }
