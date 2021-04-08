@@ -6,7 +6,12 @@
   "links_1": {
     "list_pages": true,
     "title": "Institucional",
-    "list": []
+    "list": [
+      {
+        "text": "Fita Métrica Online",
+        "url": "fita.belavirtuosa.com.br"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
@@ -14,10 +19,10 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Entre em Contato",
     "phone_wpp": true,
     "socials": true,
-    "email": true,
+    "email": false,
     "address": true
   },
   "stamps": [
@@ -27,20 +32,21 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
-    "visa": true,
-    "boleto": true,
+    "bb": false,
+    "visa": false,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": true,
+    "elo": false,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
-    "mastercard": true,
+    "mastercard": false,
+    "paypal": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": "CNP: 22.189.315-0001/61 - Desenvolvido por Impulsiona Web Performance Marketing"
 }
