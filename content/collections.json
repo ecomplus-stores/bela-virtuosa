@@ -18,6 +18,10 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<h2>Opiniões sobre a nossa loja</h2>\n<div id=\"_trustvox_colt\"></div>"
     }
   ]
 }
