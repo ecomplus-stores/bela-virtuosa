@@ -17,17 +17,12 @@
       "enabled": true
     },
     {
-      "type": "related-products",
-      "title": "Modelos Semelhantes"
+      "type": "custom-html",
+      "html": "<h2>Opiniões das nossas lindas clientes</h2>\n<div id=\"_trustvox_colt\"></div>"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "602d72889332dd6865d6ea81:categories:LANÇAMENTOS:/lancamentos",
-      "title": "Lançamentos da Semana",
-      "sort": "lowest_price"
+      "type": "related-products",
+      "title": "Quem viu, gostou também"
     }
   ]
 }
