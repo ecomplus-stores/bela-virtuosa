@@ -9,16 +9,16 @@
       "enabled": true
     },
     {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\">Opiniões das nossas lindas clientes</h4>\n<div id=\"_trustvox_colt\"></div\n  "
-    },
-    {
       "type": "product-description",
       "enabled": true
     },
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\">Opiniões das nossas lindas clientes</h4>\n<div id=\"_trustvox_colt\"></div\n  "
     },
     {
       "type": "collection-shelf",
