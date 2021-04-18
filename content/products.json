@@ -10,7 +10,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\">Opiniões das nossas lindas clientes</h4>\n<div id=\"_trustvox_colt\"></div\n  "
+      "html": "\n\n<h4 class=\"products-carousel__title\">\n  <span>O QUE NOSSAS BELAS FALAM DE NÓS</span>\n</h4>\n<div id=\"_trustvox_colt\"></div\n  "
     },
     {
       "type": "product-description",
