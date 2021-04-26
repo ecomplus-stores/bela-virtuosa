@@ -2888,6 +2888,24 @@
     </url>
   
     <url>
+      <loc>https://www.belavirtuosa.com.br/novidades_semana</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.belavirtuosa.com.br/novidades-no-tencel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.belavirtuosa.com.br/bela-virtuosa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.belavirtuosa.com.br/vestidos-tubinho-moda-evangelica</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2907,24 +2925,6 @@
   
     <url>
       <loc>https://www.belavirtuosa.com.br/lancamentos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.belavirtuosa.com.br/bela-virtuosa</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.belavirtuosa.com.br/novidades_semana</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.belavirtuosa.com.br/novidades-no-tencel</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
