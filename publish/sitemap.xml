@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://www.belavirtuosa.com.br/novidades_semana</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.belavirtuosa.com.br/novidades-no-tencel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.belavirtuosa.com.br/vestidos-tubinho-moda-evangelica</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.belavirtuosa.com.br/vestidos-rodados-moda-evangelica</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.belavirtuosa.com.br/vestidos-longos-moda-evangelica</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.belavirtuosa.com.br/lancamentos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.belavirtuosa.com.br/vestido-tubinho-com-barrado-floral-moda-evangelica</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2840,7 +2876,7 @@
     </url>
   
     <url>
-      <loc>https://www.belavirtuosa.com.br/vestido-tubinho-rosa-poa-com-elastico-na-cintura-yce7813</loc>
+      <loc>https://www.belavirtuosa.com.br/vestido-tubinho-rosa-com-elastico-na-cintura-yce7813</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2852,7 +2888,7 @@
     </url>
   
     <url>
-      <loc>https://www.belavirtuosa.com.br/vestido-rodadinho-poa-em-jeans-tencel-moda-evangelica-wcx5026</loc>
+      <loc>https://www.belavirtuosa.com.br/vestido-rodadinho-em-jeans-tencel-moda-evangelica-wcx5026</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2885,42 +2921,6 @@
       <loc>https://www.belavirtuosa.com.br/vestido-rodadinho-em-jeans-tencel-moda-evangelica-fzm5442-c967-c877-c984-c322</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.belavirtuosa.com.br/vestidos-tubinho-moda-evangelica</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.belavirtuosa.com.br/vestidos-rodados-moda-evangelica</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.belavirtuosa.com.br/vestidos-longos-moda-evangelica</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.belavirtuosa.com.br/lancamentos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.belavirtuosa.com.br/novidades_semana</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.belavirtuosa.com.br/novidades-no-tencel</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
