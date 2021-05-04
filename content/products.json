@@ -9,10 +9,6 @@
       "enabled": true
     },
     {
-      "type": "custom-html",
-      "html": "\n\n<h4 class=\"products-carousel__title\">\n  <span>DEPOIMENTOS DE CLIENTES</span>\n</h4>\n<div id=\"_trustvox_colt\"></div\n  "
-    },
-    {
       "type": "product-description",
       "enabled": true
     },
