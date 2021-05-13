@@ -22,7 +22,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h2>Opiniões sobre a nossa loja</h2>\n<div id=\"_trustvox_colt\"></div>"
+      "html": "<h4 class=\"products-carousel__title\">\n  <span>AVALIAÇÕES DE NOSSAS CLIENTES</span>\n</h4>\n<div id=\"_trustvox_colt\"></div>"
     }
   ]
 }
