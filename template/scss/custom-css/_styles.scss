@@ -25,10 +25,11 @@
   #scrollToBuy {
     width: 100%;
     position:fixed;
-    bottom:19px;
+    bottom:0px;
     z-index:2000;
     cursor:pointer;
-    outline:none!important
+    outline:none!important;
+    background-color: #009277 !important;
   }
 }
 .product-card__picture {
