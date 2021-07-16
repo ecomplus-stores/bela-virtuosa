@@ -17,22 +17,8 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "602d72889332dd6865d6ea81:categories:LANÇAMENTOS:/lancamentos",
-      "sort": "news",
-      "title": "NOVIDADES EM NOSSA LOJA"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5ed6f17614ff772fde771eb4:categories:VESTIDOS LONGOS:/vestidos-longos-moda-evangelica",
-      "sort": "news",
-      "title": "VOCÊ GOSTA DE VESTIDOS LONGOS? VEJA MAIS OPÇÕES"
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\">\n  <span>AVALIAÇÕES DE NOSSAS CLIENTES</span>\n</h4>\n<div id=\"_trustvox_colt\"></div>"
     }
   ]
 }
