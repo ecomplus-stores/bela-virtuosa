@@ -10,8 +10,8 @@
   },
   "categories_list": {
     "featured": [
-      "/lancamentos?LANÇAMENTOS",
-      "/liquida-inverno?LIQUIDA INVERNO"
+      "/liquida-inverno?LIQUIDA INVERNO",
+      "/lancamentos?LANÇAMENTOS"
     ],
     "random": 6,
     "full_width": true
