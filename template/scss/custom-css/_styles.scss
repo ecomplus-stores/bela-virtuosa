@@ -144,3 +144,10 @@ ecom-credits {
   text-align: left;
   justify-content: center;
 }
+//add offer image on liquida inverno
+.__liquida-inverno .page--categories .category-retail .product-card::after {
+  content: url('https://ecoms1-nyc3.nyc3.cdn.digitaloceanspaces.com/1077/imgs/normal/@v3/1628018921419-selo_liquida_inverno.jpg');
+  position: absolute;
+  display: block;
+  top: 0
+}
