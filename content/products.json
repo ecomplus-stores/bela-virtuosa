@@ -15,10 +15,6 @@
     {
       "type": "product-specifications",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\">\n  <span>OPINIÕES DE QUEM JÁ COMPROU</span>\n  <h4>\n<div id=\"_trustvox_colt\"></div>\n"
     }
   ]
 }
