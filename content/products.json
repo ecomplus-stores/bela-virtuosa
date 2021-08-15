@@ -15,6 +15,24 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "title": "QUEM VIU, VIU TAMBÉM",
+      "sort": "news",
+      "collection_id": "602d72889332dd6865d6ea81:categories:LANÇAMENTOS:/lancamentos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5ed64a8214ff772fde770767:categories:VESTIDOS RODADOS:/vestidos-rodados-moda-evangelica",
+      "sort": "news",
+      "title": "APROVEITE PARA LEVAR JUNTO"
     }
   ]
 }
