@@ -33,6 +33,10 @@
       "collection_id": "5ed64a8214ff772fde770767:categories:VESTIDOS RODADOS:/vestidos-rodados-moda-evangelica",
       "sort": "news",
       "title": "APROVEITE PARA LEVAR JUNTO"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><div id=\"_trustvox_colt\"></div></h4>\n\n"
     }
   ]
 }
