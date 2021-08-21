@@ -41,6 +41,10 @@
       "collection_id": null,
       "title": "ESCOLHEMOS ALGUNS MODELOS PARA VOCÊ",
       "sort": "sales"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><span>OPINIÕES DE CLIENTES</span></h4>\n  <div id=\"_trustvox_colt\"></div>\n\n"
     }
   ]
 }
