@@ -11,8 +11,10 @@
   "categories_list": {
     "featured": [
       "/lancamentos?LANÇAMENTOS",
-      "/vestidos?VESTIDOS",
-      "/outlet-90?OUTLET 90"
+      "/outlet-90?OUTLET 90",
+      "/vestidos-longos?VESTIDOS LONGOS",
+      "/vestidos-tubinho-moda-evangelica?VESTIDOS TUBINHO",
+      "/vestidos-rodados-moda-evangelica?VESTIDOS RODADOS"
     ],
     "random": 6,
     "full_width": true
