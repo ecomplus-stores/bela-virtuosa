@@ -10,11 +10,9 @@
   },
   "categories_list": {
     "featured": [
-      "/lancamentos?LANÇAMENTOS",
-      "/outlet-vestidos-evangelicos?VESTIDOS POR 90 REAIS",
-      "/vestidos-longos?VESTIDOS LONGOS",
-      "/vestidos-tubinho-moda-evangelica?VESTIDOS TUBINHO",
-      "/vestidos-rodados-moda-evangelica?VESTIDOS RODADOS"
+      "/lancamentos-vestidos-moda-evangelica?LANÇAMENTOS",
+      "/vestido-moda-evangelica?VESTIDOS MODA EVANGÉLICA",
+      "/vestidos-barato-moda-evangelica?OUTLET"
     ],
     "random": 6,
     "full_width": true
