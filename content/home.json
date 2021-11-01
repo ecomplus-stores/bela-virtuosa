@@ -7,19 +7,11 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-03-07T13:53:14.185Z",
+          "start": "2021-11-01T15:13:14.069Z",
           "end": "",
-          "img": "/img/uploads/banner-lancamento.png",
-          "mobile_img": "https://trello-attachments.s3.amazonaws.com/6042877d52d4bd6c6a6f288f/800x940/e4b3d27f03d2ac45c99e8919b9845a37/Banner%2C_Bela_Virtuosa_l_800x940px.png",
-          "link": "https://www.belavirtuosa.com.br/lancamentos"
-        },
-        {
-          "start": "2021-01-12T20:09:12.523Z",
-          "end": "",
-          "img": "/img/uploads/banner-grande-whastapp.webp",
-          "mobile_img": "/img/uploads/banner-pequeno-whats.webp",
-          "link": "https://chat.whatsapp.com/Bvf8gkb5B4O1sley8FzvdK",
-          "alt": "Grupo Vip Whatsapp"
+          "img": "/img/uploads/black-grande.jpg",
+          "mobile_img": "/img/uploads/black-pkno.jpg",
+          "link": "https://www.belavirtuosa.com.br/black-november"
         }
       ]
     },
