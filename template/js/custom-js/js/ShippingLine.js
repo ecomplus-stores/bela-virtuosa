@@ -33,6 +33,8 @@ import {
     computed: {
       deadlineStr () {
         const shipping = this.shippingLine
+        console.log(shipping)
+      
         const isWorkingDays = (shipping.posting_deadline && shipping.posting_deadline.working_days) ||
           (shipping.delivery_time && shipping.delivery_time.working_days)
         let days = shipping.posting_deadline ? shipping.posting_deadline.days : 0
@@ -43,8 +45,12 @@ import {
         console.log(days)
         let date = new Date()
         let today = date.getDay()
-        date.setDate(date.getDate() + days + (today === 6 ? 2 : +!today) + (Math.floor((days - 1 + (today % 6 || 1)) / 5) * 2));
-        return 'Previsão até ' + date.toLocaleDateString();
+        const rota = window.storefrontApp && window.storefrontApp.router && window.storefrontApp.router.currentRoute && window.storefrontApp.router.currentRoute.name
+        if ((rota !== 'order') && (rota !== 'confirmation')) {
+          date.setDate(date.getDate() + days + (today === 6 ? 2 : +!today) + (Math.floor((days - 1 + (today % 6 || 1)) / 5) * 2));
+          return 'Previsão até ' + date.toLocaleDateString('pt-BR');
+        }
+        return 'Até ' + days + ' Dia(s) úteis';
       },
     
       freightValueStr () {
