@@ -10,9 +10,9 @@
   },
   "categories_list": {
     "featured": [
-      "/colecao-festas?COLEÇÃO FESTA",
       "/lancamentos-vestidos-moda-evangelica?LANÇAMENTOS",
-      "/vestido-moda-evangelica?VESTIDOS MODA EVANGÉLICA"
+      "/vestido-moda-evangelica?VESTIDOS MODA EVANGÉLICA",
+      "/outlet?OUTLET"
     ],
     "random": 3,
     "full_width": true
