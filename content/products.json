@@ -17,15 +17,6 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "title": "QUEM VIU, VIU TAMBÉM",
-      "sort": "news",
-      "collection_id": "602d72889332dd6865d6ea81:categories:LANÇAMENTOS:/lancamentos"
-    },
-    {
       "type": "custom-html",
       "html": "<h4 class=\"products-carousel__title\"><span>OPINIÕES DE CLIENTES</span></h4>\n  <div id=\"_trustvox_colt\"></div>\n\n"
     }
